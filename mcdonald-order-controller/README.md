@@ -21,13 +21,17 @@ To run this project on your local machine, follow these steps:
    git clone <repository-url>
 
 2. **Navigate to the project directory**:
+    ```bash
     cd <project-directory>
 
 3. **Install dependencies**:
+    ```bash
     npm i
 
 4. **Start the application**:
+    ```bash
     npm start
 
 5. **Open the app**:
+    ```bash
     http://localhost:3000
